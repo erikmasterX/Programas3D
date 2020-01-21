@@ -1,0 +1,5 @@
+- Programa de elementos finitos que resuelve la ecuación de Helmholtz para un rango de frecuencias.
+- Mallas rectilíneas.
+- Funciones base lineales de orden 0.
+- Calcula resistividades aparentes y fases.
+- MT.
