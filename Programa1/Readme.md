@@ -1,0 +1,4 @@
+- Programa de elementos finitos que calcula el campo eléctrico para una frecuencia.
+- Bases lineales de orden 0.
+- Mallas Rectilíneas.
+- Ocupa PARDISO MKL.
